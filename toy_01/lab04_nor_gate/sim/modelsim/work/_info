@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\basic2023\toy_01\lab04_nor_gate\sim\modelsim
+vnor_gate
+!i10b 1
+!s100 KS`CkiMD5R^?;AFJMHB^m1
+IGLP4WiTfJSknnej0:Q1b@0
+VcPB>2AkOES9CT6JVIfc`_1
+Z1 dC:\basic2023\toy_01\lab04_nor_gate\sim\modelsim
+w1672628664
+8../../src/rtl/nor_gate.v
+F../../src/rtl/nor_gate.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z3 !s108 1672628686.800000
+Z4 !s107 ../../testbench/testbench.v|../../src/rtl/nor_gate.v|
+Z5 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+!s100 0QAIB?IDQZ[]T=H[95O9W2
+IaX9<h<S[GZ;kmLVJ_ODI12
+VhGfW:390DM[oDMzegDH9`2
+R1
+w1672628004
+8../../testbench/testbench.v
+F../../testbench/testbench.v
+L0 3
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!s101 -O0
+o-O0
