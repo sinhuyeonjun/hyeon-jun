@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\git_basic2023\hyeon-jun\toy_03\lab01_FF_SR\sim\modelsim
+vFF_SR
+!i10b 1
+Z1 !s100 Vh::TLQ_5d@V03G>c_kE21
+Z2 I_gCL3I7A]=b55<bIgAUN?3
+Z3 VQ9<kbBiE:eCka3_d2IB<F3
+Z4 dC:\git_basic2023\hyeon-jun\toy_03\lab01_FF_SR\sim\modelsim
+Z5 w1673837595
+Z6 8../../src/rtl/FF_SR.v
+Z7 F../../src/rtl/FF_SR.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1673837634.178000
+Z10 !s107 ../../testbench/testbench.v|../../src/rtl/FF_SR.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+Z12 n@f@f_@s@r
+vtestbench
+!i10b 1
+!s100 MnUfkkc4`6z37<[@MzmOi3
+ITTGo7CozRmA4HT_iH;f3O0
+Z13 VhGfW:390DM[oDMzegDH9`2
+R4
+w1673837626
+Z14 8../../testbench/testbench.v
+Z15 F../../testbench/testbench.v
+L0 4
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0

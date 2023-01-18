@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\basic2023\toy_02\lab05_demultiplexer\sim\modelsim
+vdemultiplexer
+!i10b 1
+Z1 !s100 fX;H>fCJGMCLH]CaDP[M01
+Z2 IbChkaZC^Dfci:NS:XR6k[3
+Z3 V@Q80h6MBUQB_[DgkX=IJ32
+Z4 dC:\basic2023\toy_02\lab05_demultiplexer\sim\modelsim
+Z5 w1672730318
+Z6 8../../src/rtl/demultiplexer.v
+Z7 F../../src/rtl/demultiplexer.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1672730377.290000
+Z10 !s107 ../../testbench/testbench.v|../../src/rtl/demultiplexer.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+!s100 g;11SUV@n5c=86X[diJgQ1
+I0US5cXVhajUThF[=I30622
+Z12 VhGfW:390DM[oDMzegDH9`2
+R4
+w1672730368
+Z13 8../../testbench/testbench.v
+Z14 F../../testbench/testbench.v
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0

@@ -1,0 +1,138 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\basic2023\toy_02\lab00_parity_0\sim\modelsim
+vparity_0
+!i10b 1
+Z1 !s100 ]N>oI3eN0oom_]`Gj3WO]1
+Z2 IGgRc>n210`nTM6Com=50a3
+Z3 VFShWSY`VGGd;eN2f4X6Y[3
+Z4 dC:\basic2023\toy_02\lab00_parity_0\sim\modelsim
+Z5 w1672642531
+Z6 8../../src/rtl/parity_0.v
+Z7 F../../src/rtl/parity_0.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1672644312.403000
+Z10 !s107 ../../testbench/testbench.v|../../src/rtl/parity_05.v|../../src/rtl/parity_04.v|../../src/rtl/parity_03.v|../../src/rtl/parity_02.v|../../src/rtl/parity_01.v|../../src/rtl/parity_0.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vparity_01
+!i10b 1
+Z12 !s100 jS4739`bigJ0n`TFc@YAW1
+Z13 INk6]=j7m4Ee^eYai4Y`GU2
+Z14 VBT]lX>7NCnilLM@:BP4gD2
+R4
+Z15 w1672644223
+Z16 8../../src/rtl/parity_01.v
+Z17 F../../src/rtl/parity_01.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vparity_02
+!i10b 1
+Z18 !s100 UCRgN<kkUN^kmgX::^eel3
+Z19 I4M24mVk6Pe9LCJN3RZ[402
+Z20 V`9hCnokLz0am>3EG>QAzW3
+R4
+Z21 w1672641841
+Z22 8../../src/rtl/parity_02.v
+Z23 F../../src/rtl/parity_02.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vparity_03
+!i10b 1
+Z24 !s100 <RI6j7n[_aRdPATlaDFm@2
+Z25 ILgF82^i`ZQnoFjCWeSI[h0
+Z26 V0P>Q78`8jVloafI4>:T?k3
+R4
+Z27 w1672641859
+Z28 8../../src/rtl/parity_03.v
+Z29 F../../src/rtl/parity_03.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vparity_04
+!i10b 1
+Z30 !s100 23`L>@@2m?8JX6N:`]LZV3
+Z31 I1gKz6J;3`LljbP>>^nO^H3
+Z32 V1GaZ@jmTJ8@9bg9W<f:3V2
+R4
+Z33 w1672643852
+Z34 8../../src/rtl/parity_04.v
+Z35 F../../src/rtl/parity_04.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vparity_05
+!i10b 1
+Z36 !s100 f6;0kliGGLB7:^]C>a:ij1
+Z37 IK1>o]MW;bo;BR7AnjT=<k1
+Z38 VVH9XLb5<7Nf2HMz1Hzg]S1
+R4
+Z39 w1672642408
+Z40 8../../src/rtl/parity_05.v
+Z41 F../../src/rtl/parity_05.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+Z42 !s100 4zmB?]4]1TgUEEU>ON1DZ2
+Z43 I300AlBTPSMK_>?c=5]U^k2
+Z44 VhGfW:390DM[oDMzegDH9`2
+R4
+Z45 w1672641190
+Z46 8../../testbench/testbench.v
+Z47 F../../testbench/testbench.v
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0

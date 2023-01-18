@@ -1,0 +1,84 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\git_basic2023\hyeon-jun\toy_05\lab00_Ripple_carry_4bit\sim\modelsim
+vFA_1bit
+!i10b 1
+Z1 !s100 =7>7okH`g3?oh?:aj3<9c3
+Z2 I6C0:k=MDgdZIeGT^Z^j]^3
+Z3 VP95i]20^4;zk0^3HQl4R`0
+Z4 dC:\git_basic2023\hyeon-jun\toy_05\lab00_Ripple_carry_4bit\sim\modelsim
+Z5 w1673854772
+Z6 8../../src/rtl/FA_1bit.v
+Z7 F../../src/rtl/FA_1bit.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1673932770.561000
+Z10 !s107 ../../testbench/testbench.v|../../src/rtl/FA_4bit.v|../../src/rtl/FA_1bit.v|../../src/rtl/HA.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+Z12 n@f@a_1bit
+vFA_4bit
+!i10b 1
+Z13 !s100 BfFVgM3hG^K4LWTINN02@1
+Z14 I6hnmlG<U`RoT0m2SIdfIl3
+Z15 VWag6Sl9[1;`Xdm^]S?;<H3
+R4
+Z16 w1673929719
+Z17 8../../src/rtl/FA_4bit.v
+Z18 F../../src/rtl/FA_4bit.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+Z19 n@f@a_4bit
+vHA
+!i10b 1
+Z20 !s100 6o=_gU[SUobMAm5F]9I?m2
+Z21 ID@4GJS;ZTA2e=jcBmKjkV2
+Z22 Vn;o1[9^KPgE000aRT<85R2
+R4
+Z23 w1673845841
+Z24 8../../src/rtl/HA.v
+Z25 F../../src/rtl/HA.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0
+n@h@a
+vtestbench
+!i10b 1
+!s100 PohQ2YNCOd@Bm1G6:Ln7z2
+I=TdcO4:jX>8]A4Xc^YPKT2
+Z26 VhGfW:390DM[oDMzegDH9`2
+R4
+w1673932762
+Z27 8../../testbench/testbench.v
+Z28 F../../testbench/testbench.v
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0

@@ -1,0 +1,103 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\git_basic2023\hyeon-jun\toy_04\lab01_moore\sim\modelsim
+vFA
+Z1 IPaaVn;^@PT=hP5Q1M3l6h2
+Z2 VUb30@@kk0NG5]oCG:mzi53
+Z3 dC:\git_basic2023\hyeon-jun\toy_05\lab01_Ripple_carry\sim\modelsim
+Z4 w1673845839
+Z5 8../../src/rtl/1bit_FA.v
+Z6 F../../src/rtl/1bit_FA.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s108 1673854535.284000
+Z9 !s107 ../../testbench/testbench.v|../../src/rtl/32bit_FA.v|../../src/rtl/16bit_FA.v|../../src/rtl/4bit_FA.v|../../src/rtl/1bit_FA.v|../../src/rtl/HA.v|
+Z10 !s90 -reportprogress|300|-f|run.f|
+o-O0
+n@f@a
+Z11 !s100 gWC:az;1>o05X>fDl@nJj1
+!i10b 1
+!s85 0
+!s101 -O0
+vFA_1bit
+!i10b 1
+Z12 !s100 =7>7okH`g3?oh?:aj3<9c3
+Z13 I6C0:k=MDgdZIeGT^Z^j]^3
+Z14 VP95i]20^4;zk0^3HQl4R`0
+R3
+Z15 w1673854772
+Z16 8../../src/rtl/FA_1bit.v
+Z17 F../../src/rtl/FA_1bit.v
+L0 1
+R7
+r1
+!s85 0
+31
+Z18 !s108 1673855545.666000
+Z19 !s107 ../../testbench/testbench.v|../../src/rtl/FA_32bit.v|../../src/rtl/FA_16bit.v|../../src/rtl/FA_4bit.v|../../src/rtl/FA_1bit.v|../../src/rtl/HA.v|
+R10
+!s101 -O0
+o-O0
+Z20 n@f@a_1bit
+vHA
+!i10b 1
+Z21 !s100 6o=_gU[SUobMAm5F]9I?m2
+Z22 ID@4GJS;ZTA2e=jcBmKjkV2
+Z23 Vn;o1[9^KPgE000aRT<85R2
+R3
+Z24 w1673845841
+Z25 8../../src/rtl/HA.v
+Z26 F../../src/rtl/HA.v
+L0 1
+R7
+r1
+!s85 0
+31
+R18
+R19
+R10
+!s101 -O0
+o-O0
+n@h@a
+vmoore
+Z27 !s100 @nXWe>68J1`C<HhGC9NlO1
+Z28 IlfR=jGPc9FCK05WzKQdH;2
+Z29 V^5ETegidb?IIYJM@KfUWR1
+Z30 dC:\git_basic2023\hyeon-jun\toy_04\lab01_moore\sim\modelsim
+Z31 w1673509999
+Z32 8../../src/rtl/moore.v
+Z33 F../../src/rtl/moore.v
+L0 1
+R7
+r1
+31
+Z34 !s108 1673510424.031000
+Z35 !s107 ../../testbench/testbench.v|../../src/rtl/moore.v|
+R10
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+!i10b 1
+Z36 !s100 ]@ADb=^L;<_GUfmgfOXnZ1
+Z37 I<z`Rd82gY3^MFM<>5g3`13
+Z38 VhGfW:390DM[oDMzegDH9`2
+R3
+Z39 w1673854873
+Z40 8../../testbench/testbench.v
+Z41 F../../testbench/testbench.v
+L0 4
+R7
+r1
+!s85 0
+31
+R18
+R19
+R10
+!s101 -O0
+o-O0

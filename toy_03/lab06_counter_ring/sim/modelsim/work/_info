@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\git_basic2023\hyeon-jun\toy_03\lab06_counter_ring\sim\modelsim
+vcounter_ring
+!i10b 1
+!s100 <2WF=7WfAlLeXj>?jA8JO3
+Iag?9zMn0CD]h81[PDS?3?1
+Z1 Vbd<D]:DnYUYPkn=bh2<iL0
+Z2 dC:\git_basic2023\hyeon-jun\toy_03\lab06_counter_ring\sim\modelsim
+w1673326688
+Z3 8../../src/rtl/counter_ring.v
+Z4 F../../src/rtl/counter_ring.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1673326692.239000
+Z7 !s107 ../../testbench/testbench.v|../../src/rtl/counter_ring.v|
+Z8 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+Z9 !s100 LW^TAm7ZOX5M>ZhI?H__63
+Z10 IWbR>W_:@EV[@EVH27EDUR2
+Z11 VhGfW:390DM[oDMzegDH9`2
+R2
+Z12 w1673324670
+Z13 8../../testbench/testbench.v
+Z14 F../../testbench/testbench.v
+L0 4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+o-O0

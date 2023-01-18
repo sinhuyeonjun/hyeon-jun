@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\git_basic2023\hyeon-jun\toy_02\lab07_adder\sim\modelsim
+vfull_adder
+!i10b 1
+Z1 !s100 ZCWTEAZ5c`UcBI4;a0cOd2
+Z2 I<ILO6;lRG3W3bH:WHB::F1
+Z3 V4NSIO@o^e_54J>GWOB72S1
+Z4 dC:\git_basic2023\hyeon-jun\toy_02\lab07_full_adder\sim\modelsim
+Z5 w1672899681
+Z6 8../../src/rtl/full_adder.v
+Z7 F../../src/rtl/full_adder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1672899729.872000
+Z10 !s107 ../../testbench/testbench.v|../../src/rtl/full_adder.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vhalf_adder
+Z12 I<Mz?zF8jkEMM]A`TkzZMG1
+Z13 VmWTD^j^YFj1^B3HkhZ5QQ2
+R4
+Z14 w1672898880
+Z15 8../../src/rtl/half_adder.v
+Z16 F../../src/rtl/half_adder.v
+L0 1
+R8
+r1
+31
+Z17 !s108 1672899096.912000
+Z18 !s107 ../../testbench/testbench.v|../../src/rtl/half_adder.v|../../src/rtl/full_adder.v|
+R11
+o-O0
+Z19 !s100 LP6hd>5DHV3`=i7bSY<<Y1
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+!i10b 1
+!s100 B2k=KZFSdU[9_hJaRkPj<1
+I[IPMhg=[@9iW9MGb^i@`C3
+Z20 VhGfW:390DM[oDMzegDH9`2
+R4
+w1672899576
+Z21 8../../testbench/testbench.v
+Z22 F../../testbench/testbench.v
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0

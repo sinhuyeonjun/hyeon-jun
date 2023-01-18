@@ -1,0 +1,100 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\git_basic2023\hyeon-jun\toy_03\lab09_shift_reister\sim\modelsim
+vregister
+Z1 I5QWDVEW`4_eIdN0U5f;:U0
+Z2 Vg6>^Xb]XSa1IJJL9A>C^;1
+Z3 dC:\git_basic2023\hyeon-jun\toy_03\lab09_shift_reister\sim\modelsim
+Z4 w1673412431
+Z5 8../../src/rtl/shift_register.v
+Z6 F../../src/rtl/shift_register.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s108 1673413234.321000
+Z9 !s107 ../../testbench/testbench.v|../../src/rtl/shift_register.v|
+Z10 !s90 -reportprogress|300|-f|run.f|
+o-O0
+Z11 !s100 Tn6oP@D^>nKKa:gMB5Ak32
+!i10b 1
+!s85 0
+!s101 -O0
+vshift_left_register
+Z12 !s100 =m_d0Q50WCWie?MFIk^nL3
+Z13 I?zXBh0Hfk2EiQ`D=RUk=W2
+Z14 VjVa?=g:38OVYFAb@zgcUb1
+R3
+Z15 w1673415416
+Z16 8../../src/rtl/shift_left_register.v
+Z17 F../../src/rtl/shift_left_register.v
+L0 1
+R7
+r1
+31
+Z18 !s108 1673415513.657000
+Z19 !s107 ../../testbench/testbench.v|../../src/rtl/shift_left_register.v|../../src/rtl/shift_right_register.v|
+R10
+o-O0
+!i10b 1
+!s85 0
+!s101 -O0
+vshift_register
+Z20 IKR3GJl9o;@SI50fIYNTm@1
+Z21 V;^5ePF<ni`YoJN1h<jfV^3
+R3
+Z22 w1673415202
+R5
+R6
+L0 1
+R7
+r1
+31
+Z23 !s108 1673415209.539000
+R9
+R10
+o-O0
+Z24 !s100 iIbaE?W4DVLBQ6Q61Jhc42
+!i10b 1
+!s85 0
+!s101 -O0
+vshift_right_register
+!i10b 1
+Z25 !s100 h^k[@i5Y6AJ:d6IZPNBk<2
+Z26 I?EU`eXfjDAPbBz8WY231z0
+Z27 VnF3PeX9f8J`I0G3IAG07I3
+R3
+Z28 w1673415323
+Z29 8../../src/rtl/shift_right_register.v
+Z30 F../../src/rtl/shift_right_register.v
+L0 1
+R7
+r1
+!s85 0
+31
+Z31 !s108 1673417744.652000
+Z32 !s107 ../../testbench/testbench.v|../../src/rtl/shift_right_register.v|
+R10
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+!s100 e[Rn_5EFS:D<K:I5YIUO^2
+IJ1lZmK@JMjzkBND3PfcEM0
+Z33 VhGfW:390DM[oDMzegDH9`2
+R3
+w1673417589
+Z34 8../../testbench/testbench.v
+Z35 F../../testbench/testbench.v
+L0 3
+R7
+r1
+!s85 0
+31
+R31
+R32
+R10
+!s101 -O0
+o-O0

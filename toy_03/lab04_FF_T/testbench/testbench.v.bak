@@ -1,0 +1,27 @@
+`timescale 1ns/1ps
+`define T_CLK 10
+
+module testbench();
+
+reg in_a;
+reg clk;
+reg n_rst;
+wire out;
+
+FF_T dut(
+    .in_a(in_a),
+    .clk(clk),
+    .n_rst(n_rst),
+    .out(out)
+);
+
+always #(`T_CLK * 5) clk = ~clk;
+
+initial 
+    clk = 0; n_rst = 0; in_a = 0;
+    #(`T_CLK * 5) n_rst = 1; in_a = 1;
+    #(`T_CLK * 5) in_a = 0;
+    #(`T_CLK * 5) in_a = 1;
+    #(`T_CLK * 5) $stop;
+
+endmodule 

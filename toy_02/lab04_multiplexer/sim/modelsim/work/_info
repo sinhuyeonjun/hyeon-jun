@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\basic2023\toy_02\lab04_multiplexer\sim\modelsim
+vmultiplexer
+!i10b 1
+Z1 !s100 2Akd9YhgZQKU;h>Yz6me_2
+Z2 IU[ZI=`zC:K8U>bo]D;mGo3
+Z3 V6eCWTL4fHfbVdTSM^N7[=2
+Z4 dC:\basic2023\toy_02\lab04_multiplexer\sim\modelsim
+Z5 w1672725192
+Z6 8../../src/rtl/multiplexer.v
+Z7 F../../src/rtl/multiplexer.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1672725270.085000
+Z10 !s107 ../../testbench/testbench.v|../../src/rtl/multiplexer.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+Z12 !s100 imeKhRzm]JZSK@>fK0en>2
+Z13 IjMAnSi4zlaIoM93kVSP:f1
+Z14 VhGfW:390DM[oDMzegDH9`2
+R4
+Z15 w1672725190
+Z16 8../../testbench/testbench.v
+Z17 F../../testbench/testbench.v
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0

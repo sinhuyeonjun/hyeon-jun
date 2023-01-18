@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\basic2023\toy_02\lab01_parity_0\sim\modelsim
+vparity_1
+!i10b 1
+Z1 !s100 cBAON3Ym[91@OFhXZGF7U3
+Z2 I223S:lL@PHWAFnKAd2PgL1
+Z3 VES3c`FDE8jm`7GJRcdQSj2
+Z4 dC:\basic2023\toy_02\lab01_parity_0\sim\modelsim
+Z5 w1672646176
+Z6 8../../src/rtl/parity_1.v
+Z7 F../../src/rtl/parity_1.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1672647859.625000
+Z10 !s107 ../../testbench/testbench.v|../../src/rtl/parity_1.v|
+Z11 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+Z12 !s100 BS@0`VI]P8RN__iHK8mAB0
+Z13 IoY:7^QSk=?n:imHJ4`ZeJ2
+Z14 VhGfW:390DM[oDMzegDH9`2
+R4
+Z15 w1672646195
+Z16 8../../testbench/testbench.v
+Z17 F../../testbench/testbench.v
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+o-O0

@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\git_basic2023\hyeon-jun\toy_03\lab07_counter_johnson\sim\modelsim
+vcounter_johnson
+!i10b 1
+!s100 EEUoJIdd`E5Of;YdbBS^J2
+ImcCCTUk?FDcd3PLEhiLmO2
+Z1 V]34oh<Gbf1VkQaH^=Z?Rh1
+Z2 dC:\git_basic2023\hyeon-jun\toy_03\lab07_counter_johnson\sim\modelsim
+w1673330978
+Z3 8../../src/rtl/counter_johnson.v
+Z4 F../../src/rtl/counter_johnson.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1673330982.390000
+Z7 !s107 ../../testbench/testbench.v|../../src/rtl/counter_johnson.v|
+Z8 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+vtestbench
+!i10b 1
+Z9 !s100 z[8C1Oz=ib=BM@aM>>KzX1
+Z10 IlEXh?[A@DF=1mQmBUM5o43
+Z11 VhGfW:390DM[oDMzegDH9`2
+R2
+Z12 w1673327174
+Z13 8../../testbench/testbench.v
+Z14 F../../testbench/testbench.v
+L0 4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+o-O0
